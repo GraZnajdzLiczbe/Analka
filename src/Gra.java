@@ -34,6 +34,7 @@ public class Gra {
     int wygenerowana = generujLiczbe();
     int zliczacz = 0;
     System.out.println("Wprowadz swoje imie lamusie:");
+    System.out.println("Analny Wjazd");
     String imie = wprowadzImie();
     System.out.println(format("Witaj %s!", imie));
     System.out.println(format("Podaj liczbe %s: ", imie));
